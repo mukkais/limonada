@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">limonada</string>
+    <string name="limoeiro">Toque no limoeiro para selecionar um limão</string>
+    <string name="limao">Continue batendo o limão para apertá-lo</string>
+    <string name="limonada">Bata a limonada para beber</string>
+    <string name="copo_vazio">Toque no copo vazio para começar de novo</string>
+</resources>
